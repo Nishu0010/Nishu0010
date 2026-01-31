@@ -2,11 +2,17 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
 <p align="left">I am a Full Stack Developer</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
 
@@ -24,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -66,6 +70,10 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -78,28 +86,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Nishu0010/Nishu0010/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nishu0010/Nishu0010/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nishu0010/Nishu0010/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nishu0010/Nishu0010/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nishu0010.Nishu0010&"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
