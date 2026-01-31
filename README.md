@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Nishu  
 
-<!--
-**Nishu0010/Nishu0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python Full-Stack Developer**  
+⚙️ Django | Django REST API | React | MySQL  
+🧩 Building ERP systems & real-world web applications  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ERP & business management applications**
+- 🌱 I’m currently learning **advanced Angular, .NET & scalable backend design**
+- 👯 I’m looking to collaborate on **Full-Stack & Open-Source projects**
+- 🤔 I’m looking for help with **system design & performance optimization**
+- 💬 Ask me about **Python, Django, React, APIs & Git**
+- 📫 How to reach me: **GitHub / LinkedIn**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I enjoy debugging more than writing new code 😄**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 *Turning ideas into scalable web applications*
